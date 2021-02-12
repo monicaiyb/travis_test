@@ -1,7 +1,6 @@
 const { assert } = require('chai');
 const { fibonacci } = require('../fibonacci');
 
-
 describe('Testing_First the fibonacci function', () => {
     it('must be a number', () => {
       const result = fibonacci(5);
