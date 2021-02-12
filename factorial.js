@@ -1,6 +1,5 @@
 // Patricia Nekesa & Monica Iyabo
 
-
 const calculate = {};
 
 calculate.factorial = (number) => {
