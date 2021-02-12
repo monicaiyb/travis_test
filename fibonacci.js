@@ -1,6 +1,5 @@
 // Patricia Nekesa & Monica Iyabo
 
-
 const  sequence = {};
 
 sequence.fibonacci = (number) => {
